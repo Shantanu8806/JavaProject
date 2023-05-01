@@ -6,7 +6,6 @@ import java.awt.*;
 class Menu extends JFrame {
   JLabel Pizza, Hamburger, Hotdog, MilkShake, Nuggets, Fries, Coke;
   ImageIcon pIcon, HamIcon, hIcon, mIcon, nImageIcon, fIcon, cIcon;
-  ButtonGroup group;
 
   Menu() {
     pIcon = new ImageIcon("BillingProject/src/pizzaicons.png");
